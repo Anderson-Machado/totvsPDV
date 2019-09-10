@@ -1,0 +1,14 @@
+C:\Users\macha\source\repos\TotvsPDV\src\TotvsPDV.Application\bin\Debug\netstandard2.0\TotvsPDV.Application.deps.json
+C:\Users\macha\source\repos\TotvsPDV\src\TotvsPDV.Application\bin\Debug\netstandard2.0\TotvsPDV.Application.dll
+C:\Users\macha\source\repos\TotvsPDV\src\TotvsPDV.Application\bin\Debug\netstandard2.0\TotvsPDV.Application.pdb
+C:\Users\macha\source\repos\TotvsPDV\src\TotvsPDV.Application\bin\Debug\netstandard2.0\TotvsPDV.Domain.dll
+C:\Users\macha\source\repos\TotvsPDV\src\TotvsPDV.Application\bin\Debug\netstandard2.0\TotvsPDV.Infra.Data.dll
+C:\Users\macha\source\repos\TotvsPDV\src\TotvsPDV.Application\bin\Debug\netstandard2.0\TotvsPDV.Domain.pdb
+C:\Users\macha\source\repos\TotvsPDV\src\TotvsPDV.Application\bin\Debug\netstandard2.0\TotvsPDV.Infra.Data.pdb
+C:\Users\macha\source\repos\TotvsPDV\src\TotvsPDV.Application\obj\Debug\netstandard2.0\TotvsPDV.Application.csprojAssemblyReference.cache
+C:\Users\macha\source\repos\TotvsPDV\src\TotvsPDV.Application\obj\Debug\netstandard2.0\TotvsPDV.Application.csproj.CoreCompileInputs.cache
+C:\Users\macha\source\repos\TotvsPDV\src\TotvsPDV.Application\obj\Debug\netstandard2.0\TotvsPDV.Application.AssemblyInfoInputs.cache
+C:\Users\macha\source\repos\TotvsPDV\src\TotvsPDV.Application\obj\Debug\netstandard2.0\TotvsPDV.Application.AssemblyInfo.cs
+C:\Users\macha\source\repos\TotvsPDV\src\TotvsPDV.Application\obj\Debug\netstandard2.0\TotvsPDV.Application.csproj.CopyComplete
+C:\Users\macha\source\repos\TotvsPDV\src\TotvsPDV.Application\obj\Debug\netstandard2.0\TotvsPDV.Application.dll
+C:\Users\macha\source\repos\TotvsPDV\src\TotvsPDV.Application\obj\Debug\netstandard2.0\TotvsPDV.Application.pdb
